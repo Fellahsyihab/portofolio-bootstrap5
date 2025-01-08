@@ -1,0 +1,17 @@
+body {
+    min-height: 3000px;
+    /* /ini untuk bisa scroll/ */
+}
+.jumbotron {
+    padding-top: 6rem;
+    background-color: #DBE2EF;
+}
+
+#projects {
+    /* kalau id pakai tnda pagar */
+    background-color: #DBE2EF;
+}
+
+section {
+    padding-top: 5rem;
+}
